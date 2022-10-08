@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/safardev/newsx-app-react/static/css/main.abd64e84.css",
+    "main.js": "/safardev/newsx-app-react/static/js/main.de97536f.js",
+    "static/js/787.81816f05.chunk.js": "/safardev/newsx-app-react/static/js/787.81816f05.chunk.js",
+    "static/media/loading.gif": "/safardev/newsx-app-react/static/media/loading.6623bb8cccf685c7cf89.gif",
+    "index.html": "/safardev/newsx-app-react/index.html",
+    "main.abd64e84.css.map": "/safardev/newsx-app-react/static/css/main.abd64e84.css.map",
+    "main.de97536f.js.map": "/safardev/newsx-app-react/static/js/main.de97536f.js.map",
+    "787.81816f05.chunk.js.map": "/safardev/newsx-app-react/static/js/787.81816f05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.de97536f.js"
+  ]
+}
